@@ -2,7 +2,7 @@
 
 I am a Computer Science Engineering student at Aditya University, proficient in C language. Below are my competitive programming stats and some animations to make the page more engaging.
 
-![Programming GIF](https://www.youtube.com/watch?v=gT-CpQi_OcQ)
+![Programming GIF](https://s5.ezgif.com/tmp/ezgif-5-b8788a78f4.gif)
 
 ## 🚀 My Competitive Programming Profiles
 
