@@ -2,13 +2,15 @@
 
 I am a Computer Science Engineering student at Aditya University, proficient in C language. Below are my competitive programming stats and some animations to make the page more engaging.
 
+![Programming GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
 ## 🚀 My Competitive Programming Profiles
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/siva_e9?theme=light&font=source_code_pro&ext=heatmap)](https://leetcode.com/siva_e9/)
 
 [![GFG Stats](https://geeks-for-geeks-stats-api.herokuapp.com/?username=siva_e9)](https://auth.geeksforgeeks.org/user/siva_e9/practice/)
 
-[![CodeChef Stats](https://cp-logo.vercel.app/codechef/siva_e9)](https://www.codechef.com/users/siva_e9)
+[![CodeChef Stats](https://cp-logo.vercel.app/api/codechef/siva_e9)](https://www.codechef.com/users/siva_e9)
 
 ## 📊 GitHub Stats
 
