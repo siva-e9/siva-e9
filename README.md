@@ -2,7 +2,7 @@
 
 🔹 Driven Student | Open to Opportunities | Aspiring Engineer 🔹
 
-👨‍💼 About Me:  </h3>
+👨‍💼 About Me:  
 🎓 Currently pursuing a Bachelor's degree in Computer Science Engineering at Aditya University, I am a dedicated and proactive student eager to make a meaningful impact in the tech industry. With a fervent passion for problem-solving and a thirst for knowledge, I am constantly seeking new challenges to push my boundaries and expand my skill set.
 
 🚀 Key Skills:
