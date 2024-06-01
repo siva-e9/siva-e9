@@ -5,11 +5,13 @@
 👨‍💼 About Me:  
 🎓 Currently pursuing a Bachelor's degree in Computer Science Engineering at Aditya University, I am a dedicated and proactive student eager to make a meaningful impact in the tech industry. With a fervent passion for problem-solving and a thirst for knowledge, I am constantly seeking new challenges to push my boundaries and expand my skill set.
 
-🚀 Key Skills: 
+
+🚀 Key Skills:  
 ✅ Proficient in C Programming Language, equipped with a solid foundation and practical expertise. I thrive in environments that demand critical thinking, logical reasoning, and innovative solutions. Committed to continuously refining my programming prowess to tackle complex problems effectively.
 
-🏆 Achievements: 
+🏆 Achievements:  
 🌟 Successfully completed "The Complete C Language Course" at C Programming Bootcamp, showcasing my dedication to mastering the intricacies of C programming and honing my software development skills. This achievement reflects my determination to excel in my field and contribute meaningfully to projects.
+
 
 ![Programming GIF](https://s5.ezgif.com/tmp/ezgif-5-b8788a78f4.gif)
 
