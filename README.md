@@ -1,5 +1,5 @@
 # 🌟 CHITTURI DOLA SATYA SIVA SHANKAR BABA 🌟
-![Programming GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJ5Z3Jka3hjdHk2YW5mYzhibjNnOGs4cWs4aWg5eWdubXYwNWxtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btXJQm5DD8ApubC/giphy.gif)
+![Programming GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGhicDB2Mjk4dGowdDBhbXowNzd1cTBpeTlqcmwydTRjdHc5ajFldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/141u78GarhcaRO/giphy.gif)
 
 
 🔹 Driven Student | Open to Opportunities | Aspiring Engineer 🔹
