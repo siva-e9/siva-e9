@@ -1,5 +1,5 @@
 # 🌟 CHITTURI DOLA SATYA SIVA SHANKAR BABA 🌟
-
+![Programming GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJ5Z3Jka3hjdHk2YW5mYzhibjNnOGs4cWs4aWg5eWdubXYwNWxtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btXJQm5DD8ApubC/giphy.gif)
 🔹 Driven Student | Open to Opportunities | Aspiring Engineer 🔹
 
 👨‍💼 About Me:  
@@ -13,7 +13,7 @@
 🌟 Successfully completed "The Complete C Language Course" at C Programming Bootcamp, showcasing my dedication to mastering the intricacies of C programming and honing my software development skills. This achievement reflects my determination to excel in my field and contribute meaningfully to projects.
 
 
-![Programming GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJ5Z3Jka3hjdHk2YW5mYzhibjNnOGs4cWs4aWg5eWdubXYwNWxtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btXJQm5DD8ApubC/giphy.gif)
+
 
 🎓 Education:
 
